@@ -1,0 +1,88 @@
+.modal-dialog {
+  width: 900px;
+  margin: 0px auto;
+}
+@media {
+  .modal-dialog {
+    width: 900px;
+    margin: 0px auto;
+  }
+}
+.modal-content {
+  background: #f3f4f5;
+}
+.modal-header {
+  padding: 0px;
+  border-bottom: 0;
+}
+.backgroundWhite {
+  background: #ffffff;
+  margin-bottom: 20px;
+}
+.backinsideBor {
+  border-right: 1px solid #bebebe;
+}
+.profileIcon img {
+  width: 100%;
+}
+.titleModal {
+  text-align: center;
+}
+.detailsJ {
+  width: 48%;
+  float: left;
+  font-weight: bold;
+}
+.detailsJ h6,
+.detailsJ h5 {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+.btnGreen {
+  background: #009faf;
+  width: 100%;
+  border: 0;
+  padding: 5px 10px;
+  border-radius: 5px;
+  color: #ffffff;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+.titlerightModal {
+  border-bottom: 1px solid #bebebe;
+}
+.rightModal .plusIcon {
+  float: right;
+}
+.rightModal .plusIcon i {
+  padding: 5px;
+  font-size: 14px;
+  color: #67c3d2;
+}
+.medition {
+  margin-bottom: 5px;
+}
+.medition i {
+  color: #67c3d2;
+}
+.meditionDetail {
+  padding-left: 15px;
+}
+.meditionDetail {
+  padding-left: 15px;
+}
+.rightModal {
+  margin-left: 5px;
+}
+.rightModal .plusIcon {
+  float: right;
+}
+.rightModal .plusIcon i {
+  padding: 5px;
+  font-size: 14px;
+  color: #67c3d2;
+}
+.minHeigh200 {
+  height: 200px;
+  overflow: auto;
+}

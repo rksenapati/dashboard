@@ -1,0 +1,73 @@
+.pCount {
+  font-size: 35px;
+  position: relative;
+  float: left;
+  color: #25727a;
+}
+.pCount i {
+  font-size: 10px;
+  position: absolute;
+  top: 10px;
+}
+.pDetails {
+  float: left;
+  padding: 5px 20px;
+}
+.paHead {
+  font-size: 13px;
+  font-weight: bold;
+  position: relative;
+}
+.perWithBack {
+  background: #e9f5e9;
+  border-radius: 25%;
+  padding: 2px 5px;
+  color: #228641;
+}
+.consulted {
+  font-size: 11px;
+  font-weight: bold;
+  position: relative;
+  top: -4px;
+}
+.headingPat {
+  margin: 5px;
+  padding: 2px 5px;
+  color: #458480;
+  -moz-box-shadow: 3px 3px 3px #ccc;
+  -webkit-box-shadow: 3px 3px 3px #ccc;
+  box-shadow: 3px 3px 3px #ccc;
+}
+.daywisePat {
+  background: #dae3f3;
+  color: #458480;
+  -moz-box-shadow: 3px 3px 3px #ccc;
+  -webkit-box-shadow: 3px 3px 3px #ccc;
+  box-shadow: 3px 3px 3px #ccc;
+  padding: 10px 0px 10px 10px;
+  position: relative;
+  float: left;
+  width: 47%;
+  font-size: 20px;
+}
+.daywisePat:nth-child(odd) {
+  margin-left: 4px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+.daywisePat:nth-child(even) {
+  margin-right: 4px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.dayWise {
+  font-size: 11px;
+  font-weight: bold;
+  padding: 5px;
+}
+.percentage {
+  position: absolute;
+  top: 5px;
+  right: 11px;
+  font-size: 11px;
+}

@@ -1,0 +1,26 @@
+.imgSeting img {
+  width: 20px;
+}
+.imgText {
+  padding-left: 20px;
+}
+.playIcon {
+  float: right;
+}
+
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {padding: 3px;border: 1px solid #ffffff;}
+ .table tr th{
+     background: #000000;
+    color: #ffffff;
+ }
+ .table-bordered {
+    border: 1px solid #ffffff;
+}
+ .table tr:nth-child(odd){
+     background: #dbdbdb;
+    color: #000000;	
+ }
+ .table tr:nth-child(even){
+     background: #ededed;
+    color: #000000
+ }
